@@ -1,0 +1,1133 @@
+@media (max-width: 1720px) {
+    .main-banner {
+        padding: 11% 0;
+    }
+    .banner-content .sec-hdg {
+        font-size: 64px;
+    }
+    .sec-hdg span {
+    font-size: 70px;
+}
+
+.nmb-btn {
+    margin-left: 1rem;
+}
+    .banner-slider-laptop {
+        right: -1.7rem;
+        width: 90%;
+        top: 6rem;
+    }
+    .banner-slider-mobile {
+        width: 24%;
+        margin-left: 5.5rem;
+    }
+    .slider-bg {
+        right: 3rem;
+        top: -1.7rem;
+    }
+    .mobile-slider {
+        left: 4px;
+    }
+    .mobile-slider .item img {
+        width: 94%;
+    }
+    .banner-slider-mobile img {
+        width: 100%;
+    }
+    .banner-slider {
+        top: 21px;
+        left: 51px;
+    }
+    .banner-slider .item img {
+        width: 83%;
+        margin: inherit;
+    }
+    .chat_wrap {
+        top: 29% !important;
+    }
+    .get_wrap {
+        top: 50% !important;
+        right: -8.2% !important;
+    }
+    .btns_wrap:hover .get_wrap {
+        right: -8.2% !important;
+    }
+    .case-study-images li {
+        right: -7%;
+    }
+    .img-hero-background {
+        width: 85%;
+    }
+    .case-study-wrapper .case-study-name a {
+        font-size: 40px;
+    }
+    .case-secimg {
+        right: 13rem;
+        margin: 2.2rem auto;
+    }
+    .our-services {
+        margin-bottom: 7rem;
+    }
+    .cta-left {
+        top: 1%;
+    }
+    .cta-right {
+        top: 5%;
+    }
+    .sec-hading .sec-hdg {
+        font-size: 60px;
+    }
+    .services-banner .sec-hdg {
+        text-align: center;
+    }
+    .services-banner-p {
+        padding-left: 19%;
+    }
+    .services-banner-p::before {
+        width: 100px;
+    }
+    .bnr-lft1 {
+        width: 27%;
+    }
+    .bnr-right1 {
+        width: 22%;
+    }
+    .services-banner {
+        height: 950px;
+    }
+    .branding-services .case-study-wrapper .case-study-name a {
+        font-size: 30px;
+    }
+    .panel p {
+        padding-right: 10%;
+    }
+    .fixedform {
+        top: 36.7%;
+    }
+}
+@media (max-width: 1440px) {
+    .banner-content .sec-hdg {
+        font-size: 65px;
+        margin-bottom: 0.5rem;
+    }
+    .main-banner {
+        padding: 10.5% 0;
+        background-position: inherit;
+    }
+    .banner-slider-laptop {
+        top: 5rem;
+        width: 100%;
+    }
+    .banner-slider {
+        top: 19px;
+        left: 46px;
+    }
+    .banner-content p {
+        padding: 12px 10% 20px 0;
+    }
+    .banner-slider-mobile {
+        margin-left: 0.5rem;
+        width: 28%;
+        top: 9rem;
+    }
+    .banner-slider-mobile img {
+        width: 100%;
+    }
+    .fixedform {
+        top: 44.7%;
+    }
+    .mobile-slider .item img {
+        width: 94%;
+    }
+    .chat_wrap {
+        top: 33% !important;
+    }
+    .get_wrap {
+        top: 64% !important;
+        right: -9.7% !important;
+    }
+    .btns_wrap:hover .get_wrap {
+        right: -9.7% !important;
+    }
+    .sec-hading .sec-hdg {
+        font-size: 55px;
+    }
+    .box-shadow {
+        box-shadow: 60px 0 60px 60px #0404048f;
+        bottom: 34%;
+    }
+    .case-study-images li {
+        right: -15.5%;
+    }
+    .img-hero-background {
+        width: 75%;
+    }
+    .case-study-wrapper .case-study-name a {
+        font-size: 37px;
+    }
+    .logo-design-bg {
+        width: 50%;
+    }
+    .cta-wrpar h1 {
+        font-size: 40px;
+    }
+    .cta-wrpar p {
+        font-size: 18px;
+    }
+    .cta-right,
+    .cta-left {
+        top: 0;
+        bottom: 0;
+        margin: auto;
+    }
+    section {
+        padding: 4rem 0;
+    }
+    .nav-tabs + .tab-content {
+        padding: 0;
+    }
+    .bigpackage {
+        padding: 4rem 0 0;
+    }
+    .top-hdg h1 {
+        font-size: 30px;
+    }
+    .top-packages {
+        padding: 20px 0;
+    }
+    .package-name h1 {
+        font-size: 25px;
+    }
+    .combo-list-style ul {
+        padding: 10px;
+    }
+    .combo-list-style ul li {
+        padding: 5px 0;
+        font-size: 13px;
+    }
+    .packdetails .bets_seller_list ul li {
+        font-size: 15px;
+        padding-bottom: 7px;
+    }
+    .ser-bnr-drop {
+        right: 8.5%;
+    }
+    .services-banner {
+        padding-top: 16%;
+    }
+    .support-area .counter-ul2 p::after {
+        right: -35%;
+    }
+    .nav-dropdown {
+        width: 16vw;
+    }
+    .logo-hading .services-banner-p {
+        padding-left: 25%;
+    }
+    .content-wraper h1 {
+        font-size: 190px;
+        top: -18px;
+    }
+    .introduction .sec-hdg {
+        font-size: 60px;
+    }
+    .header nav ul li {
+        padding: 0 16px;
+    }
+    .nmb-btn {
+        margin-left: 2.5rem;
+    }
+}
+@media (max-width: 1280px) {
+    .banner-content .sec-hdg {
+        font-size: 55px;
+    }
+    .header nav ul li {
+        padding: 0 8px;
+    }
+    .nmb-btn {
+        margin-left: 0.5rem;
+    }
+    .banner-content p {
+        font-size: 15px;
+    }
+    .main-banner {
+        height: 110vh;
+    }
+    .banner-slider {
+        top: 17px;
+        left: 43px;
+    }
+
+    #entry-popup .footer-form-input .form-group textarea {
+        height: 80px;
+    }
+    .footer-form-input .form-group input,
+    .footer-form-input .form-group textarea {
+        margin-bottom: 15px;
+    }
+    #entry-popup .entry-box {
+        height: 100%;
+    }
+    #entry-popup .entry-box .leadForm {
+        padding: 0;
+    }
+    #entry-popup .entry-box .footer-area-form {
+        padding: 10px 20px;
+    }
+    .btns_wrap .call_wrap {
+        top: 7%;
+    }
+    .chat_wrap {
+        top: 22% !important;
+    }
+    .get_wrap span {
+        font-size: 23px !important;
+    }
+    .get_wrap {
+        top: 61% !important;
+    }
+    .sec-hading .sec-hdg {
+        font-size: 50px;
+    }
+    .we-want-img2 {
+        margin-top: 0%;
+    }
+    .number-area h3 {
+        font-size: 40px;
+    }
+
+    .case-study-wrapper .case-study-name a {
+        font-size: 32px;
+    }
+    .case-study-images li {
+        right: -17.5%;
+    }
+    .cta-wrpar h1 {
+        font-size: 35px;
+    }
+    .cta-wrpar p {
+        font-size: 16px;
+    }
+    .branding-hading {
+        margin-left: 19%;
+    }
+    .services-banner {
+        height: 860px;
+    }
+    .elevate-your p {
+        padding: 0 18%;
+    }
+    .elt-yur-button {
+        right: 10%;
+    }
+    .branding-services .case-study-wrapper .case-study-name a {
+        font-size: 28px;
+    }
+    .branding-our-services {
+        margin-bottom: 10rem;
+    }
+    .ser-bnr-drop {
+        right: 2.9%;
+    }
+    .our-services .sec-hading {
+        margin-bottom: 9rem;
+    }
+    .digital-services .case-study-name a {
+        font-size: 26px !important;
+    }
+    .case-study-images li {
+        top: 12rem;
+    }
+    .services-banner-p {
+        padding-left: 19%;
+        padding-right: 16%;
+    }
+    .bnr-lft1 {
+        top: 15%;
+    }
+    .logo-hading .services-banner-p {
+        padding-right: 0;
+    }
+    .case-study-images li {
+        top: 14rem;
+    }
+    .sticky-form .call_wrap {
+        top: 8%;
+    }
+    .fixedform {
+        top: 36.7%;
+    }
+    .banner-slider-mobile {
+        margin-left: 0;
+    }
+}
+@media (max-width: 1199px) {
+    .dft-button {
+        font-size: 13px;
+    }
+    .nmb-btn {
+        margin-left: 1rem;
+    }
+    nav ul li {
+        padding: 0px 7px;
+    }
+    .header-navigation .dft-button {
+        height: 31px;
+    }
+    .main-banner {
+        height: 51vh;
+        padding: 12.5% 0;
+    }
+    .banr-btn {
+        background-color: #fff;
+        color: #040404;
+    }
+    .banner-slider-laptop {
+        right: -2rem;
+        top: 3rem;
+    }
+    .banner-slider {
+        top: 14px;
+        left: 33px;
+    }
+    .banner-slider-mobile {
+        margin-left: 2rem;
+    }
+    .we-want-img {
+        margin-left: 0;
+    }
+    .we-wat-p .sec-p {
+        margin: 0 0 25px;
+    }
+    .we-want-img3 {
+        margin: 35px 0 0 0;
+    }
+    .btns_wrap:hover .get_wrap {
+        right: -11% !important;
+    }
+    .counter-wrpaer {
+        justify-content: center;
+    }
+    .img-hero-background {
+        width: 60%;
+    }
+    .case-study-images li {
+        right: -36.5%;
+    }
+    .case-study-wrapper .case-study-name a {
+        font-size: 28px;
+    }
+    .cta-wrpar h1 {
+        font-size: 30px;
+    }
+    .cta-wrpar p {
+        padding: 0 22%;
+    }
+    .final .order-btn {
+        height: 43px;
+        padding: 10px 3rem;
+    }
+    .get_wrap {
+        top: 60% !important;
+        right: -11.7% !important;
+    }
+    .btns_wrap:hover .get_wrap {
+        right: -11.7% !important;
+    }
+    .testi-img {
+        width: 360px !important;
+    }
+    .clients-sec .owl-nav {
+        bottom: -5rem;
+    }
+    .testimonials-wraper {
+        margin-top: 0 !important;
+    }
+    .our-prestigious .owl-carousel .owl-item img {
+        margin: auto;
+    }
+    .sec-hading .sec-hdg {
+        font-size: 45px;
+    }
+    .entry-box h3 {
+        font-size: 30px;
+    }
+    .services-banner-p::before {
+        width: 70px;
+    }
+    .number-area p::after {
+        display: none;
+    }
+    .support-sec .owl-theme .owl-dots .owl-dot.active span,
+    .support-sec .owl-theme .owl-dots .owl-dot:hover span {
+        background-color: #fff;
+    }
+    .branding-services .case-study-wrapper .case-study-name a {
+        font-size: 25px;
+    }
+    .logo-design-bg {
+        width: 100%;
+    }
+    .panel p {
+        padding-right: 0;
+        z-index: 2;
+        position: relative;
+    }
+    .our-logo .col-md-3,
+    .logo-design-portfolio .col-md-3 {
+        max-width: 100%;
+        padding: 0;
+    }
+    .logo-design-portfolio #tabs-nav li a,
+    #porfolio-tabs-nav li a {
+        font-size: 14px;
+        padding: 5px;
+    }
+    .introduction .sec-hdg {
+        font-size: 52px;
+    }
+    .intr-sec2-img {
+        width: 60%;
+    }
+    .intr-sec2-img1 {
+        width: 50%;
+    }
+    .guranteed-slider .col-md-4 {
+        max-width: 100% !important;
+    }
+    .counter-ul {
+        display: none;
+    }
+    .destp {
+        display: block;
+    }
+    .header nav ul li {
+        padding: 0 10px;
+    }
+    .nmb-btn {
+        margin-left: 1rem;
+        padding: 7px 5px;
+    }
+    .header nav ul li a {
+        font-size: 12.5px;
+    }
+    .header {
+        padding: 2.5rem 1rem 0;
+    }
+    .banner-content {
+        margin-left: 1rem;
+    }
+    .slider-bg {
+        right: 2rem;
+        top: -1.7rem;
+        width: 10%;
+    }
+}
+@media (max-width: 991px) {
+    .nav-mobile {
+        display: block;
+    }
+    .header-navigation .nav-list {
+        display: none;
+        padding: 1rem;
+    }
+    nav ul li {
+        float: none;
+        border-bottom: 1px solid #d011112e;
+    }
+    nav ul li a {
+        padding: 15px 0 15px;
+        line-height: 20px;
+        font-size: 15px;
+    }
+    .header-navigation nav {
+        background: #353434;
+        text-align: center;
+        float: none;
+        position: relative;
+        z-index: 1000;
+        border-radius: 11px;
+    }
+    .brand-logo img {
+        max-width: 180px;
+        z-index: 555;
+        position: relative;
+    }
+    .header .align-items-center {
+        -ms-flex-align: flex-start !important;
+        align-items: flex-start !important;
+    }
+    .header {
+        padding-top: 20px;
+    }
+    .banner-slider-laptop {
+        z-index: auto;
+    }
+    .box-shadow {
+        display: none;
+    }
+    .header-button {
+        padding: 15px 0;
+    }
+    .nav-list li:last-child {
+        border: 0;
+    }
+
+    .banner-slider {
+        top: 12px;
+        left: 28px;
+    }
+    .banner-content .sec-hdg {
+        font-size: 40px;
+    }
+    .main-banner {
+        height: 64vh;
+        padding: 14.5% 0;
+    }
+    .banner-slider-mobile {
+        margin-left: 3.5rem;
+    }
+    .nav-dropdown {
+        width: 72vw;
+    }
+    .we-wat-p .sec-p {
+        font-size: 13px;
+    }
+    .sec-hading .sec-hdg {
+        font-size: 40px;
+    }
+    section {
+        padding: 3rem 0;
+    }
+    .number-area h3 {
+        font-size: 23px;
+        display: none;
+    }
+    .number-area p {
+        font-size: 10px !IMPORTANT;
+        display: none;
+    }
+    .counter-ul li {
+        margin: 0 45px;
+    }
+    .case-study-images li {
+        right: -63.5%;
+    }
+    .img-hero-background {
+        width: 48%;
+    }
+    .case-study-wrapper .case-study-name a {
+        font-size: 21px;
+    }
+    .case-secimg {
+        margin: 0.2rem auto;
+    }
+    .cta-wrpar h1 {
+        font-size: 26px;
+    }
+    .cta-wrpar p {
+        padding: 0 18%;
+    }
+    .cta-button {
+        z-index: 2;
+        position: relative;
+    }
+    .cta-right,
+    .cta-left {
+        z-index: 1;
+    }
+    .small-over .port-text {
+        font-size: 30px;
+    }
+    .port-text,
+    .ml3 span {
+        font-size: 60px;
+    }
+    .top-hdg h1 {
+        font-size: 24px;
+    }
+    .package-name h1 {
+        font-size: 21px;
+    }
+    .combo-list-style-area h2 {
+        font-size: 16px;
+    }
+    .btns_wrap {
+        display: none !important;
+    }
+    .final h2 {
+        padding-left: 0;
+        font-size: 45px;
+    }
+    .final .ult-cut-prc {
+        padding-right: 0;
+        text-align: center;
+        font-size: 20px;
+    }
+    .final .order-btn {
+        margin: 8px 0 0;
+        padding: 10px 2rem;
+    }
+    .has-pad img {
+        width: 75%;
+        bottom: 8rem;
+    }
+    .sec-hading p {
+        font-size: 14px;
+    }
+    .testi-img {
+        width: 250px !important;
+    }
+    .testi-p {
+        font-size: 16px;
+    }
+    .clients-sec .owl-nav {
+        bottom: -68px;
+    }
+    .footer-area-form p {
+        font-size: 15px;
+    }
+    .main-footer a {
+        font-size: 13px;
+    }
+    .links h4,
+    .footer-signup {
+        font-size: 14px;
+    }
+    .copyright-ul a,
+    .copyright-ul li {
+        font-size: 11px;
+    }
+    .awardSec .awardListCarousel {
+        justify-content: center;
+    }
+    .entry-box h3 {
+        font-size: 30px;
+    }
+    .entry-box img {
+        height: 100%;
+        object-fit: cover;
+    }
+    .elevate-your .sec-hdg {
+        font-size: 50px;
+    }
+    .elevate-your p {
+        padding: 0;
+    }
+    .elt-yur-button {
+        position: relative;
+        right: 0;
+        bottom: 0;
+        right: 0;
+    }
+    .banner-img2 img {
+        width: 21%;
+    }
+    .services-banner-p {
+        padding-left: 0;
+        padding-right: 0;
+        text-align: center;
+    }
+    .services-banner {
+        height: 618px;
+    }
+    .bnr-right1 {
+        top: 9rem;
+    }
+    .services-banner-p::before {
+        display: none;
+    }
+    .branding-services .case-study-wrapper .case-study-name a {
+        font-size: 17px;
+    }
+    .ser-bnr-drop {
+        top: 12%;
+        z-index: 1;
+    }
+    .faq-list h1 {
+        font-size: 20px;
+    }
+    .digital-services .case-study-name a {
+        font-size: 16px !important;
+    }
+    .logo-design-portfolio #tabs-nav,
+    .portfolio-page #porfolio-tabs-nav {
+        flex-flow: wrap;
+    }
+    .logo-hading .services-banner-p {
+        padding-left: 0;
+    }
+    .awardSec {
+        padding: 3rem 0 3rem;
+    }
+    .inner-banner {
+        height: 300px;
+    }
+    .introduction .sec-hdg {
+        font-size: 38px;
+    }
+    .introduction p {
+        font-size: 14px;
+        padding-left: 0;
+    }
+    .introduction-section2 .col-md-8 {
+        max-width: 100%;
+    }
+}
+@media (max-width: 767px) {
+    .main-banner {
+        height: 100%;
+        padding: 17.5% 0 40%;
+    }
+
+    .banner-slider-laptop {
+        width: 95%;
+        position: relative;
+        top: 20%;
+        left: 0;
+    }
+    .banner-slider {
+        top: 19px;
+        left: 42px;
+    }
+    .popup-img {
+        display: none;
+    }
+    #entry-popup .entry-box {
+        height: 100%;
+        padding: 20px 0;
+    }
+    .banner-content {
+        text-align: center;
+    }
+    .banner-content br {
+        display: none;
+    }
+
+    .banner-slider-mobile {
+        margin-left: 0;
+        position: relative;
+        width: 100%;
+        bottom: 0;
+        top: 8%;
+        overflow: hidden;
+    }
+    .banner-slider-mobile img {
+        width: 30%;
+        margin: auto;
+    }
+    .mobile-slider .item img {
+        width: 28%;
+    }
+    .mobile-slider {
+        top: 2px;
+        left: 0;
+    }
+    .we-want {
+        text-align: center;
+    }
+    .we-wat-p .sec-p {
+        font-size: 14px;
+        margin-top: 20px;
+    }
+    .we-want-img2 {
+        margin-left: 0;
+    }
+    .we-want-img3 {
+        margin: -31% auto;
+        padding-left: 25px;
+        padding-bottom: 33%;
+    }
+    .case-study-images li {
+        right: 0;
+        left: 0;
+        margin-top: 0;
+        position: relative;
+        top: 0;
+    }
+    .img-hero-background {
+        width: 56%;
+    }
+    .img-hero-background {
+        width: 100%;
+    }
+    .case-study-wrapper {
+        display: flex;
+        flex-flow: wrap;
+        justify-content: center;
+        margin-bottom: 1rem;
+    }
+    .case-study-wrapper .case-study-name a {
+        font-size: 15px;
+        display: block;
+    }
+    .case-study-wrapper li {
+        margin-bottom: 0;
+    }
+    .case-study-wrapper .case-study-name.active a,
+    .case-study-wrapper .case-study-name:hover a {
+        box-shadow: none;
+    }
+
+    [class^="box-"] {
+        display: none;
+    }
+    [class^="box-"].showfirst {
+        display: block;
+    }
+    .case-study-wrapper .case-study-name.active span,
+    .case-study-wrapper .case-study-name:hover span {
+        display: none;
+    }
+    .logo-design-bg {
+        width: 100%;
+    }
+    .our-services .sec-hading {
+        margin-bottom: 3rem;
+    }
+    .cta-right,
+    .cta-left {
+        display: none;
+    }
+    .cta-button a {
+        margin: 10px 0.7rem;
+    }
+    .cta-get-btn,
+    .call-btn {
+        /* padding: 10.5px 2rem; */
+        width: 100%;
+    }
+    .cta-button {
+        flex-flow: wrap;
+    }
+    .nav-tabs .nav-item {
+        margin-bottom: 10px;
+    }
+    .packages-tabs .nav-tabs{     margin: 0.5rem 0;
+        gap: 0rem 0; }
+        .packageSlider.owl-theme .owl-nav{ display: none !important; }
+    .no-js .owl-carousel,
+    .owl-carousel.owl-loaded {
+        margin: auto;
+    }
+    .top-hdg h1 {
+        font-size: 20px;
+    }
+    .package-name h1 {
+        font-size: 18px;
+    }
+    .has-pad img {
+        position: relative;
+        width: 30%;
+        bottom: 0;
+        display: block;
+        margin-top: 20px;
+    }
+
+    .sec-hading p {
+        font-size: 13px;
+        margin-bottom: 1rem;
+    }
+    .testi-p {
+        margin-top: 1rem;
+        font-size: 12px;
+        line-height: 20px;
+        text-align: center;
+        margin: 20px 0;
+    }
+    .clients-sec .owl-nav {
+        bottom: -2rem;
+    }
+    .footer-form .sec-hdg br,
+    .footer-form p br {
+        display: none;
+    }
+    .social-icons {
+        margin-bottom: 2rem;
+    }
+    .links h4,
+    .footer-signup {
+        font-size: 25px;
+        margin-top: 1rem;
+    }
+    .copyright-ul {
+        display: block;
+        text-align: center;
+    }
+    .copyright-ul a,
+    .copyright-ul li {
+        margin-bottom: 1rem;
+    }
+    .services-banner {
+        height: 440px;
+    }
+    .bnr-lft1 {
+        top: 17%;
+    }
+    .nav-mobile {
+        top: -1.5rem;
+    }
+    .branding-hading {
+        margin-left: 0;
+    }
+    .services-banner img {
+        display: none;
+    }
+    .services-banner {
+        padding-top: 23%;
+    }
+    .elevate-your .sec-hdg {
+        font-size: 45px;
+    }
+    .panel p {
+        display: none;
+    }
+    .branding-our-services {
+        margin-bottom: 0;
+    }
+    .our-services {
+        margin-bottom: 0;
+    }
+    .red-box {
+        margin-top: 0;
+    }
+    .ser-bnr-drop {
+        top: 13%;
+    }
+    .nav-dropdown {
+        width: 100vh;
+    }
+    .inner-banner .sec-hading .sec-hdg {
+        font-size: 50px;
+    }
+    .inner-banner {
+        height: 250px;
+    }
+    .about-us-counter .counter-ul2 {
+        margin-top: 1rem;
+    }
+    .banner-content p {
+        padding: 12px 0 20px 0;
+        width: 100%;
+    }
+    .banner-content {
+        margin-left: 0;
+    }
+}
+@media (max-width: 575px) {
+   
+    .we-want-img3 {
+        padding-left: 5rem;
+    }
+    .counter-ul2 {
+        margin-top: 3rem;
+    }
+    .case-study-wrapper {
+        grid-template-columns: auto auto auto;
+    }
+    .testimonials-wraper .d-flex {
+        display: block !important;
+    }
+    .testi-img {
+        margin: auto;
+    }
+    .clients-sec .owl-nav {
+        margin: auto;
+        right: 0;
+    }
+    .clients-sec .owl-nav {
+        margin: auto;
+        right: 0;
+    }
+    .clients-sec {
+        padding-bottom: 5rem;
+    }
+    .det-packages .boxpackages {
+        padding: 30px 15px 50px;
+        margin-bottom: 2rem;
+    }
+    .footer-form {
+        text-align: center;
+    }
+    .ser-bnr-drop {
+        display: none;
+    }
+    .banner-slider-wraper {
+        display: none;
+    }
+    .main-banner {
+        padding: 21% 0 10%;
+    }
+}
+@media (max-width: 480px) {
+
+    .banner-content {
+        padding: 0;
+    }
+    .banner-slider {
+        top: 13px;
+        left: 32px;
+    }
+    .we-want-img3 {
+        padding-left: 10rem;
+    }
+    .counter-ul {
+        display: block;
+    }
+
+    .counter-ul .counter-wrpaer {
+        margin-bottom: 2rem;
+    }
+    .counter-ul2 .counter-wrpaer {
+        margin-bottom: 0;
+    }
+    .branding-services .case-study-wrapper .case-study-name a {
+        font-size: 12px;
+    }
+}
+@media (max-width: 414px) {
+    .banner-content .sec-hdg {
+        font-size: 39px;
+    }
+
+    .nav-mobile {
+        top: -25px;
+    }
+    .banner-slider {
+        top: 10px;
+        left: 26px;
+    }
+    .clients-sec .sec-hading {
+        padding: 0 15px;
+    }
+    .clients-sec .owl-nav {
+        bottom: -3rem;
+    }
+    .top-hdg h1 {
+        font-size: 22px;
+    }
+    .header-navigation .dft-button {
+        margin-bottom: 15px;
+    }
+    .services-banner {
+        padding-top: 32%;
+    }
+    .elevate-your .sec-hdg {
+        font-size: 32px;
+    }
+    .links h4,
+    .footer-signup {
+        font-size: 20px;
+        margin-top: 1rem;
+    }
+    .nav-dropdown {
+        width: 86vw;
+    }
+    .main-banner {
+        padding: 13% 0 1%;
+    }
+    .sticky-form , .fixedform {
+        display: none !important;
+    }
+}
